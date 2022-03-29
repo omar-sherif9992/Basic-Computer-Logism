@@ -12,7 +12,7 @@
 
 
 <div align="center">
-    <img src="https://camo.githubusercontent.com/195f24feca7dc8575566c0c0d848b8cc5affbaabdbc0cb0a8b776faade01ac86/68747470733a2f2f7777772e6275652e6564752e65672f77702d636f6e74656e742f75706c6f6164732f323031382f30382f67726164756174696f6e2d6361702d333030783330302e706e67" alt="Logo" width="80" height="80">
+    <img src="./laptop.png" alt="Logo" width="100" height="100">
 
   <h3 align="center">Basic-Computer</h3>
 
