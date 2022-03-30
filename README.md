@@ -31,7 +31,8 @@ The aim of the project is to implement a Basic Computer system with an ALU !
 
 * [Logisim](ms.guc.edu.eg/apps/student/CourseViewStn?id=124&sid=55)
 
-
+## Video
+* [Video](https://drive.google.com/drive/folders/1eiCQ6iH36H9CA8nR8BJHl-Kz-65hOD3z) describing the project
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
